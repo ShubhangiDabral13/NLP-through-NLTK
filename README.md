@@ -48,6 +48,7 @@ Steps that were implemented are:-
 
 
 ## Inspiration
+* Live Twitter Sentiment Analysis by Edmauryaishu [medium post](https://medium.com/@edmauryaishu/live-twitter-sentiment-analysis-5fbdfad55fdd)
 
 ### Author:-
 
