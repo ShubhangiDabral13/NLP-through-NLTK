@@ -5,10 +5,10 @@ from tweepy.streaming import StreamListener
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="JUwlrJDma6bE274e3nmBchJQc"
-csecret="W5bziwhdWZjUEiHMzY16dNanxsdpuLxcJ7vhizslHgTaiqBf9S"
-atoken="1251774870121263104-GppJz4zIc4Z9kKYlLGAmLGNGJV25VV"
-asecret="5xJiQ2oUKzRI2L8a86e0HfwlP7SMQaLFk9iTc377WXuBI"
+ckey="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+csecret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+atoken="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+asecret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 class listener(StreamListener):
 
@@ -32,10 +32,10 @@ import json
 import sentiment_mod as s
 
 #consumer key, consumer secret, access token, access secret.
-ckey="JUwlrJDma6bE274e3nmBchJQc"
-csecret="W5bziwhdWZjUEiHMzY16dNanxsdpuLxcJ7vhizslHgTaiqBf9S"
-atoken="1251774870121263104-GppJz4zIc4Z9kKYlLGAmLGNGJV25VV"
-asecret="5xJiQ2oUKzRI2L8a86e0HfwlP7SMQaLFk9iTc377WXuBI"
+ckey="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+csecret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+atoken="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+asecret="XXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 
